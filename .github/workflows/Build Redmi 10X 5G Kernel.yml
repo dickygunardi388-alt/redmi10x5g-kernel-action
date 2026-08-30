@@ -10,7 +10,7 @@ on:
         default: atom
         options:
           - atom
-          - bomb
+          - selene
       ENABLE_RESUKISU:
         type: boolean
         description: "Enable ReSukiSU"
